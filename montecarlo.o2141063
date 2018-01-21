@@ -1,0 +1,26 @@
+
+NEUTRON TRANSPORT SIMULATION INITIAL VALUE ASSUMPTIONS:-
+NUMBER OF SAMPLES:  100000
+COMPONENT OF SCATTER: 0.700000
+ABSORBING COMPONENT: 0.300000
+H - THICKNESS OF PLATE : 4
+TOTAL NUMBER OF PROCESSES: 8
+Count of Reflected, Absorbed and Transmitted Neutrons are respectively : 63744, 23720, 12536 
+Percentage of Neutrons Reflected,Absorbed and Transmitted are are: 63.744000, 23.720000, 12.536000
+Total time taken in sec 75.867626
+ 
+ 
++------------------------------------------+ 
+| SUPERCOMPUTING CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=4gb,ncpus=8,walltime=00:10:00
+ 
+ 
++-------------------------------------+ 
+| SUPERCOMPUTING CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=574,cput=00:07:25,mem=167984kb,ncpus=8,vmem=1125576kb,walltime=00:01:16
+ 
+ 
